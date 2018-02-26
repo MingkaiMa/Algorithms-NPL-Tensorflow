@@ -1,2 +1,4 @@
 # COMP6714
- Info Retrieval and Web Search 
+ Postgraduate course: Info Retrieval and Web Search 
+ 
+ all codes
